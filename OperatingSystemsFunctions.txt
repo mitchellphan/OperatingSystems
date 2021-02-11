@@ -1,4 +1,6 @@
 The latest version of Microsoft's operating system is Windows 10.  
-One of the features of Windows 10 is once you download your smart phone app, you can get notifications, 
+It comes with multiple new features from the previous version of the windows platform. One is once you download your smart phone app, you can get notifications, 
 including text messages with the ability to reply, 
 messages from social media apps like Whatsapp and others. 
+
+Another feature of Windows 10 is that Cortana has it's own icon.  It now sits to the right of the search button and is very convient for those who like the voice recognition option.
